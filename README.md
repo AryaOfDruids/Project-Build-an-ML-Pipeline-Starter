@@ -186,3 +186,5 @@ Please, make sure all steps are using **the same** python version and that you h
 ## Project Links
 - W&B project: https://wandb.ai/trhod65-western-governors-university/nyc_airbnb
 - GitHub repository: https://github.com/AryaOfDruids/Project-Build-an-ML-Pipeline-Starter
+![clean_sample.csv](image-2.png)
+![random_forest_export PROD](image-3.png)
